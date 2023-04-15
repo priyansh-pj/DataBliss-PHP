@@ -1,0 +1,63 @@
+WARNING - 2023-03-05 06:18:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 06:56:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 07:13:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 07:36:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 07:36:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-05 07:36:56 --> Undefined array key 1
+in APPPATH/Models/Credentials_model.php on line 19.
+ 1 APPPATH/Models/Credentials_model.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'APPPATH/Models/Credentials_model.php', 19)
+ 2 APPPATH/Controllers/Credentials.php(34): App\Models\Credentials_model->register_user([...])
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Credentials->register()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 07:37:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-05 07:37:26 --> Undefined array key 1
+in APPPATH/Models/Credentials_model.php on line 19.
+ 1 APPPATH/Models/Credentials_model.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'APPPATH/Models/Credentials_model.php', 19)
+ 2 APPPATH/Controllers/Credentials.php(34): App\Models\Credentials_model->register_user([...])
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Credentials->register()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 07:48:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-05 07:48:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH/Controllers/Credentials.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-05 07:48:25 --> var_dump() expects at least 1 argument, 0 given
+in APPPATH/Controllers/Credentials.php on line 32.
+ 1 APPPATH/Controllers/Credentials.php(32): var_dump()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Credentials->register()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,1242 @@
+WARNING - 2023-03-19 06:36:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 06:36:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 06:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 06:36:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:57:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:57:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 10:57:32 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'databliss', 3306, '', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(11): CodeIgniter\Database\BaseConnection->query('SELECT password...', Array)
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(20): App\Models\Credentials_model->get_info_username('priyansh')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->login_check()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(11): CodeIgniter\Database\BaseConnection->query('SELECT password...', Array)
+#3 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(20): App\Models\Credentials_model->get_info_username('priyansh')
+#4 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->login_check()
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-19 10:57:32 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\Credentials_model.php(11): CodeIgniter\Database\BaseConnection->query('SELECT password FROM login WHERE username = ? ', [...])
+ 3 APPPATH\Controllers\Credentials.php(20): App\Models\Credentials_model->get_info_username('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->login_check()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:57:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:57:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:58:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:58:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-19 10:58:51 --> Undefined array key 0
+in APPPATH\Controllers\Billing.php on line 24.
+ 1 APPPATH\Controllers\Billing.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH\\Controllers\\Billing.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->fetch_details()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:59:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:59:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 10:59:14 --> mysqli_sql_exception: Unknown column 'Data' in 'where clause' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT id,produ...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id,produ...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id,produ...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,produ...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('Data', '1')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 10:59:14 --> Unknown column 'Data' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,product_name,sku_code,hsn,quantity,price,gst FROM product_1 WHERE id = Data ')
+ 2 APPPATH\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('Data', '1')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 10:59:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 10:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 10:59:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-19 15:40:37 --> Undefined property: stdClass::$sales_date
+in APPPATH\Views\Billing\purchase_history.php on line 38.
+ 1 APPPATH\Views\Billing\purchase_history.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$sales_date', 'APPPATH\\Views\\Billing\\purchase_history.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Billing\\purchase_history.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Billing/purchase_history', [], true)
+ 5 APPPATH\Controllers\Billing.php(106): view('Billing/purchase_history', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->purchase_history()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:40:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:40:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:41:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:41:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:41:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:41:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-19 15:41:14 --> Undefined property: stdClass::$sales_date
+in APPPATH\Views\Billing\purchase_history.php on line 38.
+ 1 APPPATH\Views\Billing\purchase_history.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$sales_date', 'APPPATH\\Views\\Billing\\purchase_history.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Billing\\purchase_history.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Billing/purchase_history', [], true)
+ 5 APPPATH\Controllers\Billing.php(106): view('Billing/purchase_history', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->purchase_history()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:55:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:55:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:56:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:56:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:56:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:56:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:56:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:56:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:58:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:58:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:59:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:59:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 15:59:01 --> mysqli_sql_exception: Unknown column 'DATA' in 'where clause' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT id,produ...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id,produ...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id,produ...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,produ...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('DATA', '1')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 15:59:01 --> Unknown column 'DATA' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,product_name,sku_code,hsn,quantity,price,gst FROM product_1 WHERE id = DATA ')
+ 2 APPPATH\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('DATA', '1')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:59:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:59:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-19 15:59:20 --> Undefined array key 0
+in APPPATH\Controllers\Billing.php on line 33.
+ 1 APPPATH\Controllers\Billing.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH\\Controllers\\Billing.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 15:59:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 15:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 15:59:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:16:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:16:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:16:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:16:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:16:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:16:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 16:16:55 --> mysqli_sql_exception: Unknown column 'DATA' in 'where clause' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT id,produ...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id,produ...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id,produ...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,produ...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('DATA', '1')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 16:16:55 --> Unknown column 'DATA' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,product_name,sku_code,hsn,quantity,price,gst FROM product_1 WHERE id = DATA ')
+ 2 APPPATH\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('DATA', '1')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:17:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:17:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 16:17:11 --> mysqli_sql_exception: Unknown column 'Service' in 'where clause' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT id,produ...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id,produ...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id,produ...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,produ...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('Service', '1')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 16:17:11 --> Unknown column 'Service' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,product_name,sku_code,hsn,quantity,price,gst FROM product_1 WHERE id = Service ')
+ 2 APPPATH\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('Service', '1')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:17:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:17:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 16:17:35 --> mysqli_sql_exception: Unknown column 'DATA' in 'field list' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO pro...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO pro...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO pro...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(73): CodeIgniter\Database\BaseConnection->query('INSERT INTO pro...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(91): App\Models\Billing_model->insert_purchase_log(Array, '1', 3)
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->purchase_data()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 16:17:35 --> Unknown column 'DATA' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(73): CodeIgniter\Database\BaseConnection->query('INSERT INTO product_1 (product_name,sku_code,hsn,quantity,gst,price) VALUES (DATA, SKU, 0321 , 3, 10, 100)')
+ 2 APPPATH\Controllers\Billing.php(91): App\Models\Billing_model->insert_purchase_log([...], '1', 3)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->purchase_data()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:21:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:21:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:21:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:21:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:23:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:23:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 16:23:58 --> mysqli_sql_exception: Unknown column 'DATA' in 'where clause' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT id,produ...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id,produ...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id,produ...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,produ...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('DATA', '1')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 16:23:58 --> Unknown column 'DATA' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,product_name,sku_code,hsn,quantity,price,gst FROM product_1 WHERE id = DATA ')
+ 2 APPPATH\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('DATA', '1')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:24:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:24:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 16:24:08 --> mysqli_sql_exception: Unknown column 'DATA' in 'field list' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO pro...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO pro...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO pro...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(73): CodeIgniter\Database\BaseConnection->query('INSERT INTO pro...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(91): App\Models\Billing_model->insert_purchase_log(Array, '1', 4)
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->purchase_data()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 16:24:08 --> Unknown column 'DATA' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(73): CodeIgniter\Database\BaseConnection->query('INSERT INTO product_1 (product_name,sku_code,hsn,quantity,gst,price) VALUES (DATA, SKU, 0321 , 3, 12, 100)')
+ 2 APPPATH\Controllers\Billing.php(91): App\Models\Billing_model->insert_purchase_log([...], '1', 4)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->purchase_data()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:24:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:24:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:25:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:25:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:26:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:26:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-19 16:26:47 --> mysqli_sql_exception: Unknown column 'SERVICE' in 'where clause' in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT id,produ...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id,produ...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id,produ...')
+#3 C:\xampp\htdocs\databliss\app\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,produ...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('SERVICE', '1')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-19 16:26:47 --> Unknown column 'SERVICE' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Billing_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT id,product_name,sku_code,hsn,quantity,price,gst FROM product_1 WHERE id = SERVICE ')
+ 2 APPPATH\Controllers\Billing.php(33): App\Models\Billing_model->get_product_details('SERVICE', '1')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Billing->get_product_details()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Billing))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-19 16:27:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$billing_model is deprecated in APPPATH\Controllers\Billing.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-19 16:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-19 16:27:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Billing::$session is deprecated in APPPATH\Controllers\Billing.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Billing->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

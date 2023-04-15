@@ -1,0 +1,15 @@
+WARNING - 2023-03-04 14:47:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-04 15:01:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-04 15:12:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,459 @@
+WARNING - 2023-03-11 07:26:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:26:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:26:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:26:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:26:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:26:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:26:40 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT organiza...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT organiza...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT organiza...')
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organiza...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('', '3')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:26:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organization_id, organization_name FROM organisation WHERE organization_id IN ()')
+ 2 APPPATH\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('C:\\xampp\\htdocs\\databliss', '3')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:26:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:26:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:29:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:29:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:29:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:29:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:29:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT organiza...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT organiza...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT organiza...')
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organiza...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('', '3')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:29:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organization_id, organization_name FROM organisation WHERE organization_id IN ()')
+ 2 APPPATH\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('C:\\xampp\\htdocs\\databliss', '3')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:36:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:36:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:36:55 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT organiza...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT organiza...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT organiza...')
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organiza...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('', '3')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:36:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organization_id, organization_name FROM organisation WHERE organization_id IN ()')
+ 2 APPPATH\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('C:\\xampp\\htdocs\\databliss', '3')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:36:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:36:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:36:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:36:59 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT organiza...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT organiza...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT organiza...')
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organiza...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('', '3')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:36:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organization_id, organization_name FROM organisation WHERE organization_id IN ()')
+ 2 APPPATH\Controllers\Credentials.php(40): App\Models\Credentials_model->get_name('C:\\xampp\\htdocs\\databliss', '3')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:37:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:37:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:42:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:42:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:42:23 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT organiza...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT organiza...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT organiza...')
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organiza...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(43): App\Models\Credentials_model->get_name('')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:42:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organization_id, organization_name FROM organisation WHERE organization_id IN ()')
+ 2 APPPATH\Controllers\Credentials.php(43): App\Models\Credentials_model->get_name('C:\\xampp\\htdocs\\databliss')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:42:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:42:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:42:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT organiza...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT organiza...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT organiza...')
+#3 C:\xampp\htdocs\databliss\app\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organiza...')
+#4 C:\xampp\htdocs\databliss\app\Controllers\Credentials.php(43): App\Models\Credentials_model->get_name('')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:42:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Credentials_model.php(62): CodeIgniter\Database\BaseConnection->query('SELECT organization_id, organization_name FROM organisation WHERE organization_id IN ()')
+ 2 APPPATH\Controllers\Credentials.php(43): App\Models\Credentials_model->get_name('C:\\xampp\\htdocs\\databliss')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Credentials->organization_verify('priyansh')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credentials))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:42:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:42:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:45:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:45:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:49:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:49:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:49:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:49:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:51:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:51:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:51:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:51:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:51:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:51:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:51:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:51:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:51:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:51:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:51:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:52:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:52:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:52:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:52:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:52:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:52:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-11 07:52:36 --> mysqli_sql_exception: Table 'databliss.1_roles' doesn't exist in C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\databliss\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT role FRO...', 0)
+#1 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT role FRO...')
+#2 C:\xampp\htdocs\databliss\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT role FRO...')
+#3 C:\xampp\htdocs\databliss\app\Models\Organization_model.php(12): CodeIgniter\Database\BaseConnection->query('SELECT role FRO...', Array)
+#4 C:\xampp\htdocs\databliss\app\Controllers\Organization.php(14): App\Models\Organization_model->get_org_role('1', '3')
+#5 C:\xampp\htdocs\databliss\system\CodeIgniter.php(934): App\Controllers\Organization->role_verify('1')
+#6 C:\xampp\htdocs\databliss\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Organization))
+#7 C:\xampp\htdocs\databliss\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\databliss\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-11 07:52:36 --> Table 'databliss.1_roles' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Models\Organization_model.php(12): CodeIgniter\Database\BaseConnection->query('SELECT role FROM 1_roles WHERE uid = ? ', [...])
+ 2 APPPATH\Controllers\Organization.php(14): App\Models\Organization_model->get_org_role('1', '3')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Organization->role_verify('1')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Organization))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 07:53:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$organization_model is deprecated in APPPATH\Controllers\Organization.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 07:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 07:53:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Organization::$session is deprecated in APPPATH\Controllers\Organization.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Organization->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 08:16:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 08:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 08:16:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 08:17:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 08:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 08:17:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-03-11 08:17:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$credentials_model is deprecated in APPPATH\Controllers\Credentials.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-11 08:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-11 08:17:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Credentials::$session is deprecated in APPPATH\Controllers\Credentials.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Credentials->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
